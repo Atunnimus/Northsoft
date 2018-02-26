@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.north.loc [NC]
+RewriteRule ^(.*)$ http://north.loc/$1 [L,R=301]
+RewriteRule (.*\.php)s$ $1 [H=application/x-httpd-php-source]

@@ -1,0 +1,31 @@
+/*----- General Styles -----*/
+
+
+/*----- About section -----*/
+#about {
+	margin-top: 5rem;
+}
+
+/*----- Manejo de texto -----*/
+.derecho {
+	text-align: right;
+}
+
+.izquierdo {
+	text-align: left;
+}
+
+.centro {
+	text-align: center;
+}
+
+.descripcion {
+	color: #3c3c3c;
+	font-family: "Montserrat";
+	padding-bottom: 10px;
+}
+
+.clientes {
+	padding: 5px !important;
+	color: #b3b3b3 !important;
+}
