@@ -10,6 +10,7 @@
     <!-- Bootstrap & Font Awesome-->
     <link href="<?=base_url('css/bootstrap.min.css');?>" rel="stylesheet" type="text/css">
     <link href="<?=base_url('css/font-awesome.min.css');?>" rel="stylesheet" type="text/css">
+    <link href="<?=base_url('css/fa-solid.css');?>" rel="stylesheet" type="text/css">
 
     <!-- Custom CSS & Fonts -->
     <link href="<?=base_url('css/custom.css');?>" rel="stylesheet" type="text/css">
@@ -33,6 +34,9 @@
           <ul class="navbar-nav ml-auto">
             <li class="nav-item mx-0 mx-lg-1">
               <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">Sobre Nosotros</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#services">Servicios</a>
             </li>
             <li class="nav-item mx-0 mx-lg-1">
               <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Portafolio</a>

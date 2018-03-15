@@ -14,6 +14,49 @@
         </div>
       </section>
 
+      <!-- Services Section -->
+      <section class="services" id="services">
+        <div class="container">
+          <h2 class="text-center text-uppercase text-secondary mb-0">Servicios</h2><br>
+          <span style="display:block;text-align:center;" ><img class="img-responsive" src="<?=base_url('img/sepnegro.png');?>"></img></span><br>
+          <div class="row">
+            <div class="col-md-4 col-lg-4 centro">
+              <i class="fas fa-wrench services-big"></i>
+              <h4 class="descripcion">Contrucción de tu Landing Page</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="col-md-4 col-lg-4 centro">
+              <i class="fas fa-wrench services-big"></i>
+              <h4 class="descripcion">Contrucción de tu Landing Page</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="col-md-4 col-lg-4 centro">
+              <i class="fas fa-wrench services-big"></i>
+              <h4 class="descripcion">Contrucción de tu Landing Page</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+
       <!-- Portfolio Grid Section -->
       <section class="portfolio" id="portfolio">
         <div class="container">
@@ -32,19 +75,23 @@
               <h5 class="clientes">Blbliografía latinoamericana</h5>
             </div>
             <div class="col-md-6 col-lg-4">
-              <a class="portfolio-item d-block mx-auto" href="http://cid.unam.mx" target="_blank">
+              <a href="http://cid.unam.mx" target="_blank">
                 <img class="img-fluid" src="<?=base_url('img/portafolio/cid.png');?>" alt="Coordinación de Identidad Digital">
               </a>
             </div>
             <div class="col-md-6 col-lg-4">
-              <a class="portfolio-item d-block mx-auto" href="http://3dgummy.mx/" target="_blank">
+              <a href="http://3dgummy.mx/" target="_blank">
                 <img class="img-fluid" src="<?=base_url('img/portafolio/3dgummy.png');?>" alt="Hawaiian Fruit">
               </a>
             </div>
-            
+            <div class="col-md-6 col-lg-4">
+              <a href="http://www.kyrabo.com/" target="_blank">
+                <img class="img-fluid" src="<?=base_url('img/portafolio/3dgummy.png');?>" alt="Kyrabo SMSC">
+              </a>
+            </div>
             <!--
             <div class="col-md-6 col-lg-4">
-              <a class="portfolio-item d-block mx-auto" href="http://companeros.com.mx" target="_blank">
+              <a href="http://companeros.com.mx" target="_blank">
                 <img class="img-fluid" src="<?=base_url('img/portafolio/companeros.png');?>" alt="Mecánica Automotríz Compañeros">
               </a>
             </div>
