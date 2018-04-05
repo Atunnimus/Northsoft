@@ -54,9 +54,6 @@
         </div>
       </section>
 
-
-
-
       <!-- Portfolio Grid Section -->
       <section class="portfolio" id="portfolio">
         <div class="container">
@@ -84,12 +81,13 @@
                 <img class="img-fluid" src="<?=base_url('img/portafolio/3dgummy.png');?>" alt="Hawaiian Fruit">
               </a>
             </div>
+            <!--
             <div class="col-md-6 col-lg-4">
               <a href="http://www.kyrabo.com/" target="_blank">
                 <img class="img-fluid" src="<?=base_url('img/portafolio/3dgummy.png');?>" alt="Kyrabo SMSC">
               </a>
             </div>
-            <!--
+            
             <div class="col-md-6 col-lg-4">
               <a href="http://companeros.com.mx" target="_blank">
                 <img class="img-fluid" src="<?=base_url('img/portafolio/companeros.png');?>" alt="Mecánica Automotríz Compañeros">
